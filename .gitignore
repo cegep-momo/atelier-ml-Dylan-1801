@@ -1,0 +1,5 @@
+*.csv
+
+!apprentissage/datas/combats.csv
+!apprentissage/datas/dataset.csv
+!apprentissage/datas/pokedex.csv
